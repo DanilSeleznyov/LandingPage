@@ -33,6 +33,7 @@ function Modes() {
                         <ModesBottomList />
                     </div>
                 </div>
+                <button className='more gallery_btn'>More Accessories Coming Soon</button>
             </div>
         </div>
     )
